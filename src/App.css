@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,11 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+#caja{
+  width: 200px;
+  height: 200px;
+  background-color: #61dafb;
+  color: #000;
 }
